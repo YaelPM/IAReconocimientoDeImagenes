@@ -1,65 +1,65 @@
 ,imagen dada,prediccion
-0,e_1.png,e
-1,e_10.png,e
-2,e_12.png,e
-3,e_13.png,e
-4,E_14.png,e
-5,e_15.png,e
-6,e_17.png,e
-7,e_18.png,e
-8,e_2.png,e
-9,e_3.png,e
-10,e_4.png,e
-11,e_5.png,e
-12,e_6.png,e
-13,e_7.png,e
-14,e_8.png,e
-15,e_9.png,e
-16,i_10.png,i
-17,i_11.png,i
-18,i_12.png,i
-19,i_13.png,i
-20,I_14.png,i
-21,i_15.png,i
-22,i_16.png,i
-23,I_17.png,numero 4
-24,I_18 (1).png,i
-25,I_18.png,i
-26,I_19 (1).png,i
-27,I_19.png,i
-28,i_2.png,i
-29,i_3.png,i
-30,i_4.png,i
-31,i_5.png,i
-32,i_6.png,i
-33,i_7.png,i
-34,i_8.png,i
-35,i_9.png,i
-36,8l.png,l
-37,l.png,l
-38,l_1 (1).png,l
-39,l_1.png,i
-40,l_10.png,l
-41,l_11.png,l
-42,l_12.png,l
-43,L_3.png,l
-44,l_4.png,i
-45,l_6.png,l
-46,l_8.png,i
-47,l_9 (1).png,l
-48,l_9.png,l
-49,_2.png,l
-50,4_1.png,numero 4
-51,4_10.png,numero 4
-52,4_11.png,numero 4
-53,4_2.png,numero 4
-54,4_3.png,numero 4
-55,4_4.png,numero 4
-56,4_5.png,numero 4
-57,4_6.png,numero 4
-58,4_7.png,numero 4
-59,4_8.png,numero 4
-60,4_9.png,numero 4
+0,4_1.png,4
+1,4_10.png,4
+2,4_11.png,4
+3,4_2.png,4
+4,4_3.png,4
+5,4_4.png,4
+6,4_5.png,4
+7,4_6.png,4
+8,4_7.png,4
+9,4_8.png,4
+10,4_9.png,4
+11,e_1.png,e
+12,e_10.png,e
+13,e_12.png,e
+14,e_13.png,e
+15,E_14.png,e
+16,e_15.png,e
+17,e_17.png,t
+18,e_18.png,t
+19,e_2.png,e
+20,e_3.png,i
+21,e_4.png,e
+22,e_5.png,e
+23,e_6.png,e
+24,e_7.png,e
+25,e_8.png,t
+26,e_9.png,e
+27,i_10.png,i
+28,i_11.png,i
+29,i_12.png,i
+30,i_13.png,i
+31,I_14.png,i
+32,i_15.png,i
+33,i_16.png,i
+34,I_17.png,i
+35,I_18 (1).png,i
+36,I_18.png,i
+37,I_19 (1).png,i
+38,I_19.png,i
+39,i_2.png,t
+40,i_3.png,i
+41,i_4.png,i
+42,i_5.png,i
+43,i_6.png,i
+44,i_7.png,i
+45,i_8.png,i
+46,i_9.png,i
+47,8l.png,t
+48,l.png,t
+49,l_1 (1).png,l
+50,l_1.png,i
+51,l_10.png,i
+52,l_11.png,l
+53,l_12.png,t
+54,L_3.png,l
+55,l_4.png,i
+56,l_6.png,l
+57,l_8.png,i
+58,l_9 (1).png,i
+59,l_9.png,i
+60,_2.png,i
 61,17t.png,t
 62,t.png,t
 63,t_1.png,t
@@ -68,10 +68,10 @@
 66,t_12.png,t
 67,t_13.png,t
 68,t_15.png,t
-69,t_2.png,l
+69,t_2.png,i
 70,T_3.png,t
 71,t_4.png,t
-72,t_5.png,t
+72,t_5.png,i
 73,t_7.png,t
 74,t_8.png,t
 75,t_9.png,t

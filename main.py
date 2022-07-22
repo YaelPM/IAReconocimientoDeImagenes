@@ -2,10 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import os
-import PIL
 import tensorflow as tf
 import matplotlib.pyplot as plt
-from PIL import Image
 import seaborn as sns
 
 from tensorflow import keras
@@ -45,11 +43,6 @@ num_classes = len(class_names)
 
 model = Sequential([
     layers.Rescaling(1./255, input_shape=(img_height, img_width, 3)),
-    layers.Conv2D(16, 3, padding='same', activation='relu'),
-    layers.MaxPooling2D(),
-    layers.Conv2D(32, 3, padding='same', activation='relu'),
-    layers.MaxPooling2D(),
-    layers.Conv2D(64, 3, padding='same', activation='relu'),
     layers.MaxPooling2D(),
     layers.Flatten(),
     layers.Dense(128, activation='relu'),
@@ -62,7 +55,7 @@ model.compile(optimizer='adam',
 
 model.summary()
 
-epochs = 50
+epochs = 200
 history = model.fit(
     train_ds,
     validation_data=val_ds,
